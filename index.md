@@ -9,6 +9,6 @@
 import csv
 import pandas as pd
 ```
-- [ ] Check Team config of friends and unfriends
+- [x] Check Team config of friends and unfriends
 - [ ] Proceed to capture at speed comensurate with your team
 - [ ] Place Plasma ahead of you in spot useful for fast boats to take cover
